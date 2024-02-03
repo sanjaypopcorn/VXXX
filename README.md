@@ -7,6 +7,7 @@ The following airports have been completed in the India vACC Euroscope sector fi
 - **VILK**
 - **VIJP**
 - **VICG**
+- **VIDN**
 
 Happy controlling!
 
